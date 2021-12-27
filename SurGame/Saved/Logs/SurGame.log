@@ -1145,3 +1145,271 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.27-06.03.39:643][946]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.27-06.03.39:643][946]LogContentValidation: Display: Validating World /Game/Nivel1.Nivel1
 [2021.12.27-06.03.39:643][946]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Nivel1_BuiltData.Nivel1_BuiltData
+[2021.12.27-06.04.51:251][566]LogSlate: Window 'New Level' being destroyed
+[2021.12.27-06.04.51:258][566]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.27-06.04.51:282][566]LightingResults: New page: Lighting Build
+[2021.12.27-06.04.51:282][566]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.12.27-06.04.51:284][566]LogWorld: UWorld::CleanupWorld for Nivel1, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-06.04.51:284][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-06.04.51:284][566]MapCheck: New page: Map Check
+[2021.12.27-06.04.51:284][566]LightingResults: New page: Lighting Build
+[2021.12.27-06.04.51:288][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-06.04.51:292][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.12.27-06.04.51:365][566]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.12.27-06.04.51:369][566]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.12.27-06.04.51:370][566]LogAIModule: Creating AISystem for world Untitled_1
+[2021.12.27-06.04.51:372][566]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.27-06.04.51:378][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.27-06.04.51:389][566]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.27-06.04.51:389][566]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2021.12.27-06.04.51:389][566]LogFileHelpers: Loading map 'Template_Default' took 0.131
+[2021.12.27-06.04.56:642][741]LogSlate: Window 'Save Level As' being destroyed
+[2021.12.27-06.04.56:696][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.27-06.04.56:700][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.12.27-06.04.56:710][741]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Level23993A21B4D1FC1DF44FF388BD59F503F.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Level2.umap'
+[2021.12.27-06.04.56:716][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_BuiltData" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Level2_BuiltData.uasset" SILENT=true
+[2021.12.27-06.04.56:731][741]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Level2_BuiltData958FDA084378C02E69E3E497F42E4A6B.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Level2_BuiltData.uasset'
+[2021.12.27-06.04.56:738][741]LogFileHelpers: Saving map 'Level2' took 0.088
+[2021.12.27-06.04.56:742][741]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.27-06.04.56:742][741]LogContentValidation: Display: Validating World /Game/Level2.Level2
+[2021.12.27-06.04.56:742][741]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level2_BuiltData.Level2_BuiltData
+[2021.12.27-06.05.12:155][332]LogContentBrowser: Attempting asset rename: Level2 -> Nivel2
+[2021.12.27-06.05.12:225][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nivel2_BuiltData" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2_BuiltData.uasset" SILENT=true
+[2021.12.27-06.05.12:240][332]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Nivel2_BuiltData9CA7A29048C671AE325970822D6FBE8C.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2_BuiltData.uasset'
+[2021.12.27-06.05.12:241][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nivel2" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.27-06.05.12:246][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.27-06.05.12:257][332]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Nivel208A761E14F001ABC557204AB7C795DF4.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2.umap'
+[2021.12.27-06.05.12:261][332]LogFileHelpers: Saving map 'Nivel2' took 0.020
+[2021.12.27-06.05.12:362][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.12.27-06.05.12:367][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.12.27-06.05.12:377][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.27-06.05.12:381][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.12.27-06.05.12:429][332]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.27-06.05.12:429][332]LogContentValidation: Display: Validating World /Game/Nivel2.Nivel2
+[2021.12.27-06.05.12:429][332]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Nivel2_BuiltData.Nivel2_BuiltData
+[2021.12.27-06.05.20:227][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nivel2" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.27-06.05.20:231][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.12.27-06.05.20:241][181]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Nivel2165226A3471B8189A429ADAFFF51BD64.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2.umap'
+[2021.12.27-06.05.20:247][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nivel2_BuiltData" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2_BuiltData.uasset" SILENT=true
+[2021.12.27-06.05.20:259][181]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Nivel2_BuiltData3700BAD447A955FD17CA9A890B341270.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2_BuiltData.uasset'
+[2021.12.27-06.05.20:273][181]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.27-06.05.20:273][181]LogContentValidation: Display: Validating World /Game/Nivel2.Nivel2
+[2021.12.27-06.05.20:273][181]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Nivel2_BuiltData.Nivel2_BuiltData
+[2021.12.27-06.05.43:004][ 48]Cmd: DELETE
+[2021.12.27-06.05.43:004][ 48]Cmd: ACTOR DELETE
+[2021.12.27-06.05.43:005][ 48]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.27-06.05.43:009][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.12.27-06.05.43:010][ 48]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2021.12.27-06.06.00:037][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 54C49F6AB8986CAE3FDE93F5CDCA679F15645CEF), compiling. 
+[2021.12.27-06.06.00:138][745]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:170][745]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.12.27-06.06.00:170][745]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.12.27-06.06.00:170][745]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.12.27-06.06.00:170][745]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.12.27-06.06.00:170][745]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.12.27-06.06.00:170][745]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.12.27-06.06.00:170][745]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:170][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 397DA19F1C61E7A44C80DDDD630A4BF63D1C236F), compiling. 
+[2021.12.27-06.06.00:199][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:281][745]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2021.12.27-06.06.00:281][745]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.12.27-06.06.00:281][745]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:281][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7EDD25116D33F2F475FBC7885D056C639F1B6DD7), compiling. 
+[2021.12.27-06.06.00:301][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:430][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 11D19227065D1DA1DD89BECDADF41F209ED22EC3), compiling. 
+[2021.12.27-06.06.00:447][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:463][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_4 in PCD3D_SM5, Default, SM5 (DDC key hash: D5E76CB9A5FE108D53AD50103CEB1B6AA10A59E9), compiling. 
+[2021.12.27-06.06.00:480][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:529][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 7799CE7CE7512E3B375C877731B2093B60E98D5A), compiling. 
+[2021.12.27-06.06.00:547][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:618][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 364EBDC5F4EB70670AE9B724A432B68386B99F4E), compiling. 
+[2021.12.27-06.06.00:632][745]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:858][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_7 in PCD3D_SM5, Default, SM5 (DDC key hash: ABB8DE0F94200D2EF3D9926928A42DFE65A148A1), compiling. 
+[2021.12.27-06.06.00:876][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:878][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 127A0B1A4E733BBCC50D32C390F8BA240A5246C0), compiling. 
+[2021.12.27-06.06.00:896][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:913][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_9 in PCD3D_SM5, Default, SM5 (DDC key hash: 4015C321CB7CD77CD61FDA871D6BCD17135E2951), compiling. 
+[2021.12.27-06.06.00:930][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:945][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_10 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D32BAF37B0C3F124D6BD98AAE7A4BBE37A4F9AD), compiling. 
+[2021.12.27-06.06.00:963][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.00:996][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_11 in PCD3D_SM5, Default, SM5 (DDC key hash: 9233789D418573C9FE0842D26FF83A458ABBFD56), compiling. 
+[2021.12.27-06.06.01:013][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.01:030][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: 852C9CA525EEF115A2221B2D737444F63D8131DC), compiling. 
+[2021.12.27-06.06.01:048][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.01:064][745]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_14 in PCD3D_SM5, Default, SM5 (DDC key hash: AA3D483B2B2FD789CE026E73BABD0C50EA06AEF5), compiling. 
+[2021.12.27-06.06.01:082][745]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2021.12.27-06.06.01:166][745]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.12.27-06.06.02:539][841]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 344
+[2021.12.27-06.06.02:539][841]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.02:542][841]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.27-06.06.02:543][841]LogShaderCompilers: Display: Total job queries 368, among them cache hits 0 (0.00%)
+[2021.12.27-06.06.02:543][841]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2021.12.27-06.06.02:543][841]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.12.27-06.06.02:543][841]LogShaderCompilers: Display: ================================================
+[2021.12.27-06.06.02:927][849]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 334
+[2021.12.27-06.06.02:927][849]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.03:045][859]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 324
+[2021.12.27-06.06.03:045][859]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.03:067][859]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 314
+[2021.12.27-06.06.03:067][859]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.03:131][863]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 304
+[2021.12.27-06.06.03:132][863]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 294
+[2021.12.27-06.06.03:132][863]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.03:184][868]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 284
+[2021.12.27-06.06.03:184][868]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.03:627][912]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 274
+[2021.12.27-06.06.03:627][912]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.05:427][ 90]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 264
+[2021.12.27-06.06.05:427][ 90]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.06:352][181]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 254
+[2021.12.27-06.06.06:352][181]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.06:618][207]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 244
+[2021.12.27-06.06.06:618][207]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.06:845][229]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 234
+[2021.12.27-06.06.06:845][229]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.06:866][230]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 224
+[2021.12.27-06.06.06:866][230]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.07:122][254]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 214
+[2021.12.27-06.06.07:122][254]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.07:387][279]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 204
+[2021.12.27-06.06.07:387][279]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.07:674][307]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 194
+[2021.12.27-06.06.07:674][307]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.09:321][470]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 184
+[2021.12.27-06.06.09:321][470]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.10:073][544]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 174
+[2021.12.27-06.06.10:073][544]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.10:189][555]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 164
+[2021.12.27-06.06.10:189][555]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.10:456][581]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 154
+[2021.12.27-06.06.10:456][581]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.10:589][593]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 144
+[2021.12.27-06.06.10:590][593]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.10:759][609]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 134
+[2021.12.27-06.06.10:759][609]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.10:954][627]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 124
+[2021.12.27-06.06.10:954][627]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.11:857][714]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 114
+[2021.12.27-06.06.11:857][714]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.12:991][825]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 104
+[2021.12.27-06.06.12:991][825]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.13:214][847]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 94
+[2021.12.27-06.06.13:214][847]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.14:065][933]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 84
+[2021.12.27-06.06.14:065][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.14:080][934]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 74
+[2021.12.27-06.06.14:080][934]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.14:182][944]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 64
+[2021.12.27-06.06.14:182][944]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.14:279][952]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 55
+[2021.12.27-06.06.14:279][952]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.14:846][  6]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2021.12.27-06.06.14:846][  6]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.15:507][ 71]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2021.12.27-06.06.15:507][ 71]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.15:916][111]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.12.27-06.06.15:916][111]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.16:827][198]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2021.12.27-06.06.16:828][198]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.17:068][221]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2021.12.27-06.06.17:068][221]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.17:144][228]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.12.27-06.06.17:144][228]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.17:192][233]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.12.27-06.06.17:192][233]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.17:492][261]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.12.27-06.06.17:492][261]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.17:541][266]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.12.27-06.06.17:541][266]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.17:917][301]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.12.27-06.06.17:917][301]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.18:043][314]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.12.27-06.06.18:043][314]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.12.27-06.06.18:043][314]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.18:368][346]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.12.27-06.06.18:368][346]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.18:463][355]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.12.27-06.06.18:463][355]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.18:463][355]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.12.27-06.06.18:463][355]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.18:494][357]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.12.27-06.06.18:494][357]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.06.18:633][372]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.12.27-06.06.18:633][372]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-06.07.22:095][130]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.12.27-06.08.15:482][533]Cmd: TRANSACTION UNDO
+[2021.12.27-06.08.15:482][533]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.12.27-06.11.56:748][714]Cmd: SELECT NONE
+[2021.12.27-06.12.41:997][229]Cmd: SELECT NONE
+[2021.12.27-06.14.40:501][630]LogActorFactory: Actor Factory created Tree_FBX
+[2021.12.27-06.14.42:710][879]LogActorFactory: Actor Factory created Tree_FBX
+[2021.12.27-06.15.20:278][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.12.27-06.15.20:282][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nivel2" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Autosaves/Game/Nivel2_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.27-06.15.20:289][406]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.12.27-06.15.20:364][406]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Nivel2_Auto4CD3CA66B4FEA3163093D3A8D1CDF127D.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Autosaves/Game/Nivel2_Auto4.umap'
+[2021.12.27-06.15.20:366][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Nivel2' took 0.096
+[2021.12.27-06.15.20:366][406]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2021.12.27-06.16.29:701][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_FBX)
+[2021.12.27-06.17.48:845][489]LogActorFactory: Actor Factory created Tree_FBX
+[2021.12.27-06.18.26:218][715]Cmd: TRANSACTION UNDO
+[2021.12.27-06.18.26:218][715]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.17:609][178]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.12.27-06.20.19:464][370]Cmd: DELETE
+[2021.12.27-06.20.19:464][370]Cmd: ACTOR DELETE
+[2021.12.27-06.20.19:466][370]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.27-06.20.19:477][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.12.27-06.20.19:480][370]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.12.27-06.20.19:921][421]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.12.27-06.20.21:040][540]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.27-06.20.21:501][583]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.27-06.20.22:157][651]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.27-06.20.22:623][700]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.12.27-06.20.23:882][839]Cmd: DELETE
+[2021.12.27-06.20.23:882][839]Cmd: ACTOR DELETE
+[2021.12.27-06.20.23:885][839]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2021.12.27-06.20.23:889][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.12.27-06.20.23:891][839]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.12.27-06.20.25:080][982]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.25:080][982]LogEditorTransaction: Undo Delete Actors
+[2021.12.27-06.20.33:696][727]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.33:696][727]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.27-06.20.34:060][735]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.34:060][735]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.27-06.20.34:483][755]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.34:484][755]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.27-06.20.34:880][799]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.34:880][799]LogEditorTransaction: Undo Delete Actors
+[2021.12.27-06.20.35:227][821]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.35:227][821]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.35:522][841]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.35:522][841]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.35:770][866]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.35:770][866]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.36:038][893]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.36:038][893]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.36:343][924]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.36:343][924]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.36:719][963]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.36:719][963]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.36:960][987]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.36:960][987]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.37:327][ 25]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.37:327][ 25]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.37:720][ 66]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.37:720][ 66]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.38:097][105]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.38:097][105]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.38:419][138]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.38:419][138]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.38:823][180]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.38:823][180]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.39:576][261]Cmd: TRANSACTION UNDO
+[2021.12.27-06.20.39:576][261]LogEditorTransaction: Undo Foliage Editing
+[2021.12.27-06.20.53:308][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nivel2" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.27-06.20.53:313][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.12.27-06.20.53:404][818]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Nivel2EF216A77467D642858B40BB0EE80E405.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2.umap'
+[2021.12.27-06.20.53:411][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nivel2_BuiltData" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2_BuiltData.uasset" SILENT=true
+[2021.12.27-06.20.53:424][818]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Nivel2_BuiltData1EDEEA6548C416DE194ABE96CCDD7F3A.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2_BuiltData.uasset'
+[2021.12.27-06.20.53:433][818]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.27-06.20.53:433][818]LogContentValidation: Display: Validating World /Game/Nivel2.Nivel2
+[2021.12.27-06.20.53:433][818]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Nivel2_BuiltData.Nivel2_BuiltData
