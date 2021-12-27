@@ -1329,3 +1329,386 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.27-08.31.06:562][345]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.27-08.31.06:562][345]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level2_BuiltData.Level2_BuiltData
 [2021.12.27-08.31.06:562][345]LogContentValidation: Display: Validating World /Game/Level2.Level2
+[2021.12.27-08.31.52:205][785]LogContentBrowser: Deferred new asset file creation: PersonajeBase_Child
+[2021.12.27-08.31.52:245][785]LogContentBrowser: Creating deferred item: PersonajeBase_Child
+[2021.12.27-08.31.54:874][ 95]LogContentBrowser: Attempting asset rename: PersonajeBase_Child -> Enemigo
+[2021.12.27-08.31.54:879][ 95]LogContentBrowser: End creating deferred item PersonajeBase_Child
+[2021.12.27-08.31.57:430][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemigo.Enemigo
+[2021.12.27-08.32.16:398][ 29]LogTexture: Display: Building textures: Vampire_emission (OODLE_AutoDXT, 512X512)
+[2021.12.27-08.32.16:398][ 29]LogTexture: Display: Building textures: Vampire_masks (OODLE_AutoDXT, 2048X2048)
+[2021.12.27-08.32.16:398][ 29]LogTexture: Display: Building textures: Vampire_normal (OODLE_BC5, 2048X2048)
+[2021.12.27-08.32.16:398][ 29]LogTexture: Display: Building textures: Vampire_diffuse (OODLE_AutoDXT, 2048X2048)
+[2021.12.27-08.32.16:398][ 29]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.27-08.32.16:398][ 29]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.27-08.32.16:398][ 29]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.27-08.32.16:398][ 29]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.27-08.32.16:399][ 29]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.27-08.32.16:399][ 29]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.27-08.32.16:399][ 29]LogMaterial: Display: Missing cached shadermap for Vamp_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C0F4B90385CE0226DDAADB19FAC4A4B650B14F4E), compiling. 
+[2021.12.27-08.32.16:428][ 29]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.27-08.32.16:445][ 29]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2021.12.27-08.32.16:445][ 29]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2021.12.27-08.32.16:445][ 29]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.12.27-08.32.16:445][ 29]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.12.27-08.32.16:445][ 29]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.12.27-08.32.16:445][ 29]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.12.27-08.32.16:445][ 29]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.12.27-08.32.16:445][ 29]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-08.32.16:445][ 29]LogSkeletalMesh: Display: [AssetLog] C:\Git\labsSEV_Supervivencia\Supervivencia\Content\MixamoAnimPack\Mixamo_Vampire\Mesh\Vampire_A_Lusth.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.12.27-08.32.16:445][ 29]LogSkeletalMesh: Building Skeletal Mesh Vampire_A_Lusth...
+[2021.12.27-08.32.16:465][ 29]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/MixamoAnimPack/Mixamo_Vampire/Mesh/Vampire_A_Lusth.Vampire_A_Lusth
+[2021.12.27-08.32.16:470][ 29]LogMaterial: Display: Missing cached shadermap for Vamp_alpha_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B93510D6E82FCE583E0F4C55DDB2C110AA971902), compiling. 
+[2021.12.27-08.32.16:601][ 29]LogShaderCompilers: Display: Submitted 74 shader compile jobs with 'Low' priority
+[2021.12.27-08.32.16:606][ 29]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 74
+[2021.12.27-08.32.16:606][ 29]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.27-08.32.17:881][ 76]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.12.27-08.32.17:881][ 76]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.27-08.32.17:887][ 76]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.27-08.32.17:887][ 76]LogShaderCompilers: Display: Total job queries 124, among them cache hits 2 (1.61%)
+[2021.12.27-08.32.17:887][ 76]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 15 distinct outputs (83.33%)
+[2021.12.27-08.32.17:887][ 76]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2021.12.27-08.32.17:887][ 76]LogShaderCompilers: Display: ================================================
+[2021.12.27-08.32.18:567][ 94]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.12.27-08.32.18:567][ 94]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.27-08.32.18:753][102]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.12.27-08.32.18:753][102]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.27-08.32.18:954][110]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.12.27-08.32.18:954][110]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.27-08.32.19:150][118]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.12.27-08.32.19:150][118]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.27-08.32.19:217][121]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.12.27-08.32.19:217][121]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.27-08.32.19:237][122]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.12.27-08.32.19:237][122]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.27-08.32.19:340][127]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.12.27-08.32.19:340][127]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.27-08.32.19:475][133]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.12.27-08.32.19:475][133]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.27-08.32.19:549][136]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 53
+[2021.12.27-08.32.19:550][136]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.19:663][141]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.12.27-08.32.19:663][141]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.19:747][145]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2021.12.27-08.32.19:747][145]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2021.12.27-08.32.19:747][145]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.19:796][147]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2021.12.27-08.32.19:796][147]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.20:218][164]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.12.27-08.32.20:218][164]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.20:414][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.12.27-08.32.20:414][172]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.21:460][218]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.12.27-08.32.21:460][218]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.21:649][226]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.12.27-08.32.21:650][226]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.21:688][227]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.12.27-08.32.21:688][227]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.22:285][252]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.12.27-08.32.22:285][252]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.22:427][258]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.12.27-08.32.22:427][258]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.22:515][262]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.12.27-08.32.22:516][262]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.12.27-08.32.22:516][262]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.22:619][267]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.12.27-08.32.22:619][267]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.22:784][275]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.12.27-08.32.22:784][275]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.32.22:784][275]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.12.27-08.32.22:785][275]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.12.27-08.32.22:785][275]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.27-08.37.07:415][312]BlueprintLog: New page: Compile Enemigo
+[2021.12.27-08.37.07:471][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.12.27-08.37.07:862][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemigo" FILE="../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Content/Enemigo.uasset" SILENT=true
+[2021.12.27-08.37.07:881][338]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Enemigo142DD28E436A81C6EF5CBA844A8498BB.tmp' to '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Content/Enemigo.uasset'
+[2021.12.27-08.37.07:894][338]AssetCheck: New page: Asset Save: Enemigo
+[2021.12.27-08.37.07:894][338]LogContentValidation: Display: Validating Blueprint /Game/Enemigo.Enemigo
+[2021.12.27-08.37.09:373][463]LogSlate: Window 'Enemigo' being destroyed
+[2021.12.27-08.37.09:379][463]LogSlate: Window 'Enemigo' being destroyed
+[2021.12.27-08.37.09:408][463]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-08.37.09:408][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.38.03:258][552]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.27-08.38.04:070][645]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.27-08.38.04:784][730]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2021.12.27-08.40.31:240][746]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.27-08.40.31:246][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-08.40.31:246][746]PIE: New page: PIE session: Level2 (Dec 27, 2021, 10:40:31 AM)
+[2021.12.27-08.40.31:267][746]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level2
+[2021.12.27-08.40.31:294][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026860s)
+[2021.12.27-08.40.31:295][746]LogAIModule: Creating AISystem for world Level2
+[2021.12.27-08.40.31:295][746]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2021.12.27-08.40.31:295][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level2.Level2 to /Game/UEDPIE_0_Level2.Level2 (0.028149s)
+[2021.12.27-08.40.31:315][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.12.27-08.40.31:328][746]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.12.27-08.40.31:328][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-08.40.31:328][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-08.40.31:328][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-08.40.31:328][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-08.40.31:328][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-08.40.31:328][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-08.40.31:328][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-08.40.31:328][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-08.40.31:329][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-08.40.31:329][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-08.40.31:329][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-08.40.31:329][746]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-08.40.31:331][746]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-08.40.31:331][746]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-08.40.31:331][746]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.27-08.40.31:331][746]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.27-08.40.31:331][746]LogAudioMixer: Display: 4: BackLeft
+[2021.12.27-08.40.31:331][746]LogAudioMixer: Display: 5: BackRight
+[2021.12.27-08.40.31:331][746]LogAudioMixer: Display: 6: SideLeft
+[2021.12.27-08.40.31:331][746]LogAudioMixer: Display: 7: SideRight
+[2021.12.27-08.40.31:342][746]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G935/G933s Gaming Headset)
+[2021.12.27-08.40.31:342][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-08.40.31:342][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-08.40.31:342][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-08.40.31:343][746]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-08.40.31:343][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-08.40.31:343][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.12.27-08.40.31:344][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-08.40.31:344][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-08.40.31:344][746]LogInit: FAudioDevice initialized.
+[2021.12.27-08.40.31:344][746]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level2'.
+[2021.12.27-08.40.31:351][746]LogLoad: Game class is 'ModoSupervivencia_C'
+[2021.12.27-08.40.31:354][746]LogWorld: Bringing World /Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.27-09.40.31
+[2021.12.27-08.40.31:399][746]LogWorld: Bringing up level for play took: 0.047775
+[2021.12.27-08.40.31:400][746]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.12.27-08.40.31:418][746]PIE: Server logged in
+[2021.12.27-08.40.31:419][746]PIE: Play in editor total start time 0.173 seconds.
+[2021.12.27-08.40.36:640][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-08.40.36:640][336]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level2
+[2021.12.27-08.40.36:640][336]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-08.40.36:641][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.40.36:651][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-08.40.36:692][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.40.36:706][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-08.40.36:707][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-08.40.36:708][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-08.40.36:710][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-08.40.36:713][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.12.27-08.40.36:751][337]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.12.27-08.40.40:669][777]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.27-08.40.41:840][886]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.27-08.40.41:845][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-08.40.41:845][886]PIE: New page: PIE session: Level2 (Dec 27, 2021, 10:40:41 AM)
+[2021.12.27-08.40.41:868][886]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level2
+[2021.12.27-08.40.41:894][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025903s)
+[2021.12.27-08.40.41:895][886]LogAIModule: Creating AISystem for world Level2
+[2021.12.27-08.40.41:895][886]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2021.12.27-08.40.41:895][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level2.Level2 to /Game/UEDPIE_0_Level2.Level2 (0.027002s)
+[2021.12.27-08.40.41:915][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.12.27-08.40.41:917][886]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.12.27-08.40.41:917][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-08.40.41:917][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-08.40.41:917][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-08.40.41:917][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-08.40.41:917][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-08.40.41:917][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-08.40.41:917][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-08.40.41:917][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-08.40.41:918][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-08.40.41:918][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-08.40.41:918][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-08.40.41:918][886]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-08.40.41:921][886]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-08.40.41:921][886]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-08.40.41:921][886]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.27-08.40.41:921][886]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.27-08.40.41:921][886]LogAudioMixer: Display: 4: BackLeft
+[2021.12.27-08.40.41:921][886]LogAudioMixer: Display: 5: BackRight
+[2021.12.27-08.40.41:921][886]LogAudioMixer: Display: 6: SideLeft
+[2021.12.27-08.40.41:921][886]LogAudioMixer: Display: 7: SideRight
+[2021.12.27-08.40.41:931][886]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G935/G933s Gaming Headset)
+[2021.12.27-08.40.41:932][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-08.40.41:932][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-08.40.41:932][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-08.40.41:932][886]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-08.40.41:932][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-08.40.41:932][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.12.27-08.40.41:933][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-08.40.41:933][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-08.40.41:933][886]LogInit: FAudioDevice initialized.
+[2021.12.27-08.40.41:933][886]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level2'.
+[2021.12.27-08.40.41:946][886]LogLoad: Game class is 'ModoSupervivencia_C'
+[2021.12.27-08.40.41:948][886]LogWorld: Bringing World /Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.27-09.40.41
+[2021.12.27-08.40.41:949][886]LogWorld: Bringing up level for play took: 0.002670
+[2021.12.27-08.40.41:949][886]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.12.27-08.40.41:952][886]PIE: Server logged in
+[2021.12.27-08.40.41:953][886]PIE: Play in editor total start time 0.108 seconds.
+[2021.12.27-08.41.02:389][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-08.41.02:389][317]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level2
+[2021.12.27-08.41.02:389][317]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-08.41.02:390][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.41.02:398][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-08.41.02:410][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.41.02:426][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-08.41.02:426][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-08.41.02:427][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-08.41.02:433][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.12.27-08.41.02:462][318]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.12.27-08.41.18:685][662]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemigo.Enemigo
+[2021.12.27-08.42.19:615][620]BlueprintLog: New page: Compile Enemigo
+[2021.12.27-08.42.19:663][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.12.27-08.42.20:144][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemigo" FILE="../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Content/Enemigo.uasset" SILENT=true
+[2021.12.27-08.42.20:156][652]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Enemigo47C852234F72141B640359988A295983.tmp' to '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Content/Enemigo.uasset'
+[2021.12.27-08.42.20:174][652]AssetCheck: New page: Asset Save: Enemigo
+[2021.12.27-08.42.20:175][652]LogContentValidation: Display: Validating Blueprint /Game/Enemigo.Enemigo
+[2021.12.27-08.42.20:961][724]LogSlate: Window 'Enemigo' being destroyed
+[2021.12.27-08.42.20:967][724]LogSlate: Window 'Enemigo' being destroyed
+[2021.12.27-08.42.21:008][724]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-08.42.21:008][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.42.21:987][810]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.27-08.42.21:993][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-08.42.21:993][810]PIE: New page: PIE session: Level2 (Dec 27, 2021, 10:42:21 AM)
+[2021.12.27-08.42.22:027][810]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level2
+[2021.12.27-08.42.22:053][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025854s)
+[2021.12.27-08.42.22:055][810]LogAIModule: Creating AISystem for world Level2
+[2021.12.27-08.42.22:055][810]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2021.12.27-08.42.22:055][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level2.Level2 to /Game/UEDPIE_0_Level2.Level2 (0.027587s)
+[2021.12.27-08.42.22:073][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.12.27-08.42.22:074][810]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.12.27-08.42.22:074][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-08.42.22:074][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-08.42.22:074][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-08.42.22:074][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-08.42.22:074][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-08.42.22:074][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-08.42.22:074][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-08.42.22:074][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-08.42.22:075][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-08.42.22:075][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-08.42.22:075][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-08.42.22:075][810]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-08.42.22:078][810]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-08.42.22:078][810]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-08.42.22:078][810]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.27-08.42.22:078][810]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.27-08.42.22:078][810]LogAudioMixer: Display: 4: BackLeft
+[2021.12.27-08.42.22:078][810]LogAudioMixer: Display: 5: BackRight
+[2021.12.27-08.42.22:078][810]LogAudioMixer: Display: 6: SideLeft
+[2021.12.27-08.42.22:078][810]LogAudioMixer: Display: 7: SideRight
+[2021.12.27-08.42.22:089][810]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G935/G933s Gaming Headset)
+[2021.12.27-08.42.22:089][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-08.42.22:090][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-08.42.22:090][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-08.42.22:090][810]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-08.42.22:090][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-08.42.22:090][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.12.27-08.42.22:091][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-08.42.22:091][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-08.42.22:091][810]LogInit: FAudioDevice initialized.
+[2021.12.27-08.42.22:091][810]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level2'.
+[2021.12.27-08.42.22:102][810]LogLoad: Game class is 'ModoSupervivencia_C'
+[2021.12.27-08.42.22:105][810]LogWorld: Bringing World /Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.27-09.42.22
+[2021.12.27-08.42.22:105][810]LogWorld: Bringing up level for play took: 0.002497
+[2021.12.27-08.42.22:106][810]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.12.27-08.42.22:108][810]PIE: Server logged in
+[2021.12.27-08.42.22:109][810]PIE: Play in editor total start time 0.117 seconds.
+[2021.12.27-08.42.29:160][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-08.42.29:160][647]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level2
+[2021.12.27-08.42.29:160][647]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-08.42.29:161][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.42.29:171][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-08.42.29:183][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.42.29:198][647]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-08.42.29:198][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-08.42.29:199][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-08.42.29:201][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-08.42.29:204][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.12.27-08.42.29:231][648]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.12.27-08.42.46:200][962]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Recolectable.Recolectable
+[2021.12.27-08.42.48:155][107]LogSlate: Window 'Recolectable' being destroyed
+[2021.12.27-08.42.48:162][107]LogSlate: Window 'Recolectable' being destroyed
+[2021.12.27-08.42.48:164][107]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-08.42.48:164][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.42.50:618][280]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemigo.Enemigo
+[2021.12.27-08.44.51:608][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.12.27-08.44.51:611][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2" FILE="../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Autosaves/Game/Level2_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.27-08.44.51:721][713]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Level2_Auto1F80E4617415A6DF8A6A120B8FD6F84F1.tmp' to '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Autosaves/Game/Level2_Auto1.umap'
+[2021.12.27-08.44.51:723][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level2' took 0.149
+[2021.12.27-08.44.51:723][713]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.149
+[2021.12.27-08.44.51:724][713]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemigo] ([2] browsable assets)...
+[2021.12.27-08.44.51:735][713]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemigo.Enemigo]
+[2021.12.27-08.44.51:735][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemigo]
+[2021.12.27-08.44.51:735][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemigo" FILE="../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Autosaves/Game/Enemigo_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.12.27-08.44.51:749][713]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Enemigo_Auto15D99FAFF41FC4D39EDC1F5A2BD5DE69E.tmp' to '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Autosaves/Game/Enemigo_Auto1.uasset'
+[2021.12.27-08.44.51:750][713]LogFileHelpers: Auto-saving content packages took 0.027
+[2021.12.27-08.45.27:204][963]BlueprintLog: New page: Compile Enemigo
+[2021.12.27-08.45.27:244][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.12.27-08.45.27:751][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemigo" FILE="../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Content/Enemigo.uasset" SILENT=true
+[2021.12.27-08.45.27:766][993]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Enemigo2EF7AE664CD3BB7CB4506A9AC14CAD9C.tmp' to '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Content/Enemigo.uasset'
+[2021.12.27-08.45.27:789][993]AssetCheck: New page: Asset Save: Enemigo
+[2021.12.27-08.45.27:789][993]LogContentValidation: Display: Validating Blueprint /Game/Enemigo.Enemigo
+[2021.12.27-08.45.28:464][ 57]LogSlate: Window 'Enemigo' being destroyed
+[2021.12.27-08.45.28:469][ 57]LogSlate: Window 'Enemigo' being destroyed
+[2021.12.27-08.45.28:497][ 57]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-08.45.28:498][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.45.29:684][158]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.27-08.45.29:689][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-08.45.29:690][158]PIE: New page: PIE session: Level2 (Dec 27, 2021, 10:45:29 AM)
+[2021.12.27-08.45.29:717][158]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level2
+[2021.12.27-08.45.29:743][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025832s)
+[2021.12.27-08.45.29:744][158]LogAIModule: Creating AISystem for world Level2
+[2021.12.27-08.45.29:744][158]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2021.12.27-08.45.29:744][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level2.Level2 to /Game/UEDPIE_0_Level2.Level2 (0.027577s)
+[2021.12.27-08.45.29:767][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.12.27-08.45.29:769][158]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.12.27-08.45.29:769][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-08.45.29:769][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-08.45.29:769][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-08.45.29:769][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-08.45.29:769][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-08.45.29:769][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-08.45.29:769][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-08.45.29:769][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-08.45.29:769][158]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-08.45.29:769][158]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-08.45.29:769][158]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-08.45.29:769][158]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-08.45.29:772][158]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-08.45.29:772][158]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-08.45.29:772][158]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.27-08.45.29:772][158]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.27-08.45.29:772][158]LogAudioMixer: Display: 4: BackLeft
+[2021.12.27-08.45.29:772][158]LogAudioMixer: Display: 5: BackRight
+[2021.12.27-08.45.29:772][158]LogAudioMixer: Display: 6: SideLeft
+[2021.12.27-08.45.29:772][158]LogAudioMixer: Display: 7: SideRight
+[2021.12.27-08.45.29:783][158]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G935/G933s Gaming Headset)
+[2021.12.27-08.45.29:783][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-08.45.29:783][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-08.45.29:783][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-08.45.29:783][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-08.45.29:783][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-08.45.29:783][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.12.27-08.45.29:784][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-08.45.29:784][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-08.45.29:784][158]LogInit: FAudioDevice initialized.
+[2021.12.27-08.45.29:784][158]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level2'.
+[2021.12.27-08.45.29:793][158]LogLoad: Game class is 'ModoSupervivencia_C'
+[2021.12.27-08.45.29:796][158]LogWorld: Bringing World /Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.27-09.45.29
+[2021.12.27-08.45.29:796][158]LogWorld: Bringing up level for play took: 0.002499
+[2021.12.27-08.45.29:796][158]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.12.27-08.45.29:799][158]PIE: Server logged in
+[2021.12.27-08.45.29:800][158]PIE: Play in editor total start time 0.112 seconds.
+[2021.12.27-08.45.42:159][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-08.45.42:159][632]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level2
+[2021.12.27-08.45.42:159][632]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-08.45.42:160][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.45.42:168][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-08.45.42:185][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-08.45.42:199][632]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-08.45.42:199][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-08.45.42:200][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-08.45.42:202][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-08.45.42:206][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.12.27-08.45.42:234][633]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.12.27-08.45.53:628][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2" FILE="../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Content/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.27-08.45.53:644][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.12.27-08.45.53:754][101]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Level2533E5C88428C5935E3D18B93B5F8E03B.tmp' to '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Content/Level2.umap'
+[2021.12.27-08.45.53:763][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_BuiltData" FILE="../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Content/Level2_BuiltData.uasset" SILENT=true
+[2021.12.27-08.45.53:892][101]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Saved/Level2_BuiltData9A88A2EA456F5D197D14469C63CD1199.tmp' to '../../../../../../Git/labsSEV_Supervivencia/Supervivencia/Content/Level2_BuiltData.uasset'
+[2021.12.27-08.45.53:904][101]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.27-08.45.53:904][101]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level2_BuiltData.Level2_BuiltData
+[2021.12.27-08.45.53:904][101]LogContentValidation: Display: Validating World /Game/Level2.Level2
