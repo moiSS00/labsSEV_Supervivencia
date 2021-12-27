@@ -1413,3 +1413,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.27-06.20.53:433][818]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.27-06.20.53:433][818]LogContentValidation: Display: Validating World /Game/Nivel2.Nivel2
 [2021.12.27-06.20.53:433][818]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Nivel2_BuiltData.Nivel2_BuiltData
+[2021.12.27-06.22.02:295][312]Cmd: DELETE
+[2021.12.27-06.22.02:295][312]Cmd: ACTOR DELETE
+[2021.12.27-06.22.02:297][312]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2021.12.27-06.22.05:533][312]LogSlate: Window 'Message' being destroyed
+[2021.12.27-06.22.05:539][312]Message dialog closed, result: Yes, title: Message, text: Actor Light Source is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+Sky Sphere
+[2021.12.27-06.22.05:540][312]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.12.27-06.22.05:545][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.27-06.22.05:549][312]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.12.27-06.22.36:821][398]Cmd: DELETE
+[2021.12.27-06.22.36:821][398]Cmd: ACTOR DELETE
+[2021.12.27-06.22.36:824][398]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.12.27-06.22.36:829][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.12.27-06.22.36:831][398]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.12.27-06.22.40:321][817]Cmd: TRANSACTION UNDO
+[2021.12.27-06.22.40:321][817]LogEditorTransaction: Undo Delete Actors
+[2021.12.27-06.23.37:305][ 97]Cmd: DELETE
+[2021.12.27-06.23.37:305][ 97]Cmd: ACTOR DELETE
+[2021.12.27-06.23.37:307][ 97]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.12.27-06.23.37:312][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.12.27-06.23.37:314][ 97]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.12.27-06.23.49:762][523]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.12.27-06.23.50:815][626]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.27-06.23.51:326][686]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.27-06.23.53:693][957]Cmd: SELECT NONE
+[2021.12.27-06.24.01:991][946]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.27-06.24.02:428][995]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.12.27-06.24.47:571][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nivel2" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.27-06.24.47:577][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.27-06.24.47:671][988]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Nivel204328205482268C32B491EB54E8C4DAA.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2.umap'
+[2021.12.27-06.24.47:678][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nivel2_BuiltData" FILE="../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2_BuiltData.uasset" SILENT=true
+[2021.12.27-06.24.47:697][988]LogSavePackage: Moving '../../../../../../Git/labsSEV_Supervivencia/SurGame/Saved/Nivel2_BuiltDataD31661274CF0308F73354DBA7F18D1B7.tmp' to '../../../../../../Git/labsSEV_Supervivencia/SurGame/Content/Nivel2_BuiltData.uasset'
+[2021.12.27-06.24.47:706][988]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.27-06.24.47:706][988]LogContentValidation: Display: Validating World /Game/Nivel2.Nivel2
+[2021.12.27-06.24.47:706][988]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Nivel2_BuiltData.Nivel2_BuiltData
